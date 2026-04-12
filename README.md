@@ -5,7 +5,7 @@
 
 > [!IMPORTANT]
 > Если вы нашли эту статью самостоятельно и хотите приобрести доступ —
-> напишите мне в Telegram: https://t.me/+rYQIgzYIaaw3ZWFi
+> напишите в личные сообщения моего Telegram канала: https://t.me/+rYQIgzYIaaw3ZWFi
 
 ---
 
