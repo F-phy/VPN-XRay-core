@@ -1,4 +1,4 @@
-# Настройка VPN на основе XRay-core
+# Как настроить VPN через v2rayN и XRay-core на Windows / Linux / Android
 
 Инструкция по подключению к VPN-серверу через приложения с поддержкой XRay-core на Windows, Linux, macOS, Android и iOS.
 
