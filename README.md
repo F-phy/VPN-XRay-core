@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/560fb769fba5c5ca6a3e174ec9bb22c8.jpg" width="550">
+  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/560fb769fba5c5ca6a3e174ec9bb22c8.jpg" width="400">
 </div>
 
 ---
@@ -62,19 +62,19 @@
 3. Язык меняется через <kbd>···</kbd> в правом верхнем углу.
 
 <div align="center">
-  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/a62bc6eef86e4589b11b1c7af859b184.jpg" width="550">
+  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/a62bc6eef86e4589b11b1c7af859b184.jpg" width="400">
 </div>
 
 4. Внизу выбираем <kbd>Global</kbd> и <kbd>Установить системный прокси</kbd>.
 
 <div align="center">
-  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/fefa006ecb2f2a81437ffa0fe9269bb1.jpg" width="550">
+  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/fefa006ecb2f2a81437ffa0fe9269bb1.jpg" width="400">
 </div>
 
 5. Чтобы вставить ссылку — переходим в раздел <kbd>Серверы</kbd> → <kbd>Импорт по URL</kbd>. После этого сверху появляется окно **import_sub** рядом с **Все серверы** — переключаемся на него. Сверху нажимаем <kbd>Группа подписки</kbd> → <kbd>Обновить подписку с прокси</kbd>.
 
 <div align="center">
-  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/8e4fcaa1ada2ab986acb3f4ef1260a12.jpg" width="550">
+  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/8e4fcaa1ada2ab986acb3f4ef1260a12.jpg" width="400">
 </div>
 
 6. Дважды кликаем по нужному серверу → <kbd>Подтвердить</kbd>. VPN подключён и уже работает.
@@ -83,7 +83,7 @@
 > Выключать VPN — не просто закрыть окно. Нужно открыть скрытые иконки в трее, нажать на v2rayN и выбрать <kbd>Выход</kbd>.
 
 <div align="center">
-  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/0d8043654774ea06b2a9115687099216.jpg" width="550">
+  <img src="https://s1.hostingkartinok.com/uploads/images/2026/03/0d8043654774ea06b2a9115687099216.jpg" width="400">
 </div>
 
 В дальнейшем VPN включается автоматически при каждом запуске приложения.
